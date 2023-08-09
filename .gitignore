@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+avikumar-talaviya-PP\data\project-puzzle-dataset_new\Primavera/
+
 # Distribution / packaging
 .Python
 build/
