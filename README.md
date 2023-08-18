@@ -12,6 +12,7 @@ We are looking for complex patterns in project management data which can help id
 
 Your analysis should explore and communicate the best way to curate the data to enable analytics. In your analysis, identify which factors most influence project delays and cost overruns.
 
+**Analysis Report link:** [Click Here](https://github.com/avikumart/Humyn-ai-projects/blob/main/report/Avikumar_talaviya_report_project_puzzle.pdf)
 
 2) Rail Riddle
 
@@ -26,4 +27,7 @@ This data is from multiple mine sites, where multiple products are transported b
 
 At times the rail capacity and service levels may be negatively impacted. It is more important than ever to improve the accuracy of understanding of rail delays.
 
-Typically the delays are related to the rail entity, on occasion these are also influenced by how fast the mines produce the ore material. The delay types are labelled in the data. Delays may also be seasonal, related to weather, or other seasonal events.
+Typically the delays are related to the rail entity, on occasion these are also influenced by how fast the mines produce the ore material. The delay types are labeled in the data. Delays may also be seasonal, related to weather, or other seasonal events.
+
+**Analysis Report link:** [Click Here](https://github.com/avikumart/Humyn-ai-projects/blob/main/report/Project_report_final_submission.pdf)
+
