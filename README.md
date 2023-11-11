@@ -2,7 +2,7 @@
 Data science and machine learning projects from Humyn.ai challenges 
 
 Challenge names:
-1) Project Puzzle:
+1) **Project Puzzle:**
 
 **Task: Perform exploratory data analysis to understand what patterns or trends influence project schedules and cost overruns.**
 
@@ -14,7 +14,7 @@ Your analysis should explore and communicate the best way to curate the data to 
 
 **Analysis Report link:** [Click Here](https://github.com/avikumart/Humyn-ai-projects/blob/main/report/Avikumar_talaviya_report_project_puzzle.pdf)
 
-2) Rail Riddle
+2) **Rail Riddle:**
 
 **Task Summary**
 Perform exploratory data analysis to understand what patterns or trends influence rail delays.
